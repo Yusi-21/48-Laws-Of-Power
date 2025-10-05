@@ -56,7 +56,7 @@ Android-приложение, предоставляющее удобный до
 <div align="center">
   
 <img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot1_white.jpg" width="30%" alt="Закон 1_1"/>
-<img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot2_white.jpg" width="30%" alt="Закон 25"/>
+
 
 *Главный экран и пример закона*
 
