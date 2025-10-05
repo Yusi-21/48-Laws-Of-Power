@@ -48,8 +48,14 @@ Android-приложение, предоставляющее удобный до
 <div align="center">
 
 <img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot1_black.jpg" width="30%" alt="Все законы_1"/>
-<img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot1_white.jpg" width="30%" alt="Закон 12"/>
 <img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot2_black.jpg" width="30%" alt="Все законы_2"/>
+
+*Главный экран и пример закона*
+</div>
+
+<div align="center">
+  
+<img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot1_white.jpg" width="30%" alt="Закон 12"/>
 <img src="https://github.com/Yusi-21/48-Laws-Of-Power/raw/main/app/src/main/res/drawable/screenshot2_white.jpg" width="30%" alt="Закон 48"/>
 
 *Главный экран и пример закона*
