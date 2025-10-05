@@ -6,7 +6,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-**Моё первое приложение на Kotlin с современным UI!** ✨
+**Приложение на Kotlin с современным UI!** ✨
 
 </div>
 
@@ -45,8 +45,9 @@ Android-приложение, предоставляющее удобный до
 ## 📸 Скриншоты
 
 <div align="center">
-![Image](https://github.com/user-attachments/assets/284727f6-28e2-44fb-a07b-05c7366aa2cf)
-![Image](https://github.com/user-attachments/assets/7539640b-4eed-4d36-90c6-6c3ea6147948)
+  https://github.com/Yusi-21/48-Laws-Of-Power/blob/main/app/src/main/res/drawable/all.jpg
+  https://github.com/Yusi-21/48-Laws-Of-Power/blob/main/app/src/main/res/drawable/12.jpg
+
 </div>
 
 ## 🚀 Установка и использование
