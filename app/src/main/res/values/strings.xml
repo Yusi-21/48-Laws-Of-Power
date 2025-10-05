@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">48 Laws Of Power</string>
+
+    <string name="law_1_title">Law 1</string>
+    <string name="law_1_subTitle">Never Outshine the Master</string>
+    <string name="law_1_desc">Make those above you feel comfortably superior. Avoid making your talents seem too obvious, or you might inspire fear and insecurity. Let your masters appear more brilliant than they are, and you will attain the heights of power.</string>
+
+    <string name="law_2_title">Law 2</string>
+    <string name="law_2_subTitle">Never put too Much Trust in Friends, Learn how to use Enemies</string>
+    <string name="law_2_desc">Friends can easily become envious and betray you. A former enemy, having already proven their loyalty through reconciliation, can be more trustworthy. Hire them, for they have more to prove.</string>
+
+    <string name="law_3_title">Law 3</string>
+    <string name="law_3_subTitle">Conceal Your Intentions</string>
+    <string name="law_3_desc">Keep people off-balance and in the dark by never revealing the purpose behind your actions. If they have no clue what you are up to, they cannot prepare a defense. Guide them down the wrong path and then strike.</string>
+
+    <string name="law_4_title">Law 4</string>
+    <string name="law_4_subTitle">Always Say Less Than Necessary</string>
+    <string name="law_4_desc">The more you say, the more likely you are to say something foolish. Powerful people impress by saying little. When you are silent, you appear in control. Be precise and purposeful with your words.</string>
+
+    <string name="law_5_title">Law 5</string>
+    <string name="law_5_subTitle">So Much Depends on Reputation – Guard it with your Life</string>
+    <string name="law_5_desc">Your reputation is the cornerstone of your power. Use your reputation to intimidate and win. Once it slips, however, you are vulnerable and will be attacked on all sides. Make your reputation unassailable.</string>
+
+    <string name="law_6_title">Law 6</string>
+    <string name="law_6_subTitle">Court Attention at all Cost</string>
+    <string name="law_6_desc">It is better to be slandered and attacked than to be ignored. Everything is judged by its appearance; what is unseen counts for nothing. Never let yourself get lost in the crowd.</string>
+
+    <string name="law_7_title">Law 7</string>
+    <string name="law_7_subTitle">Get others to do the Work for you, but Always Take the Credit</string>
+    <string name="law_7_desc">Use the wisdom, knowledge, and legwork of others to further your own cause. Not only will such assistance save you valuable time and energy, it will give you a godlike aura of efficiency and speed.</string>
+
+    <string name="law_8_title">Law 8</string>
+    <string name="law_8_subTitle">Make other People come to you – use Bait if Necessary</string>
+    <string name="law_8_desc">When you force the enemy to act, you are in control. It is always better to make your opponent come to you, abandoning his own plans in the process. Lure them with valuable gains.</string>
+
+    <string name="law_9_title">Law 9</string>
+    <string name="law_9_subTitle">Win through your Actions, Never through Argument</string>
+    <string name="law_9_desc">Any momentary triumph you gain through argument will be overshadowed by the resentment and ill will you create. Demonstrate your points through undeniable actions, not petty debate.</string>
+
+    <string name="law_10_title">Law 10</string>
+    <string name="law_10_subTitle">Infection: Avoid the Unhappy and Unlucky</string>
+    <string name="law_10_desc">Emotional states are as infectious as diseases. You can die from someone else\'s misery. Do not associate with those who bring you down or attract misfortune. They will drain your power.</string>
+
+    <string name="law_11_title">Law 11</string>
+    <string name="law_11_subTitle">Learn to Keep People Dependent on You</string>
+    <string name="law_11_desc">The more people rely on you, the more freedom you have. To maintain your independence, you must always be needed and wanted. The more others depend on you, the more power you wield.</string>
+
+    <string name="law_12_title">Law 12</string>
+    <string name="law_12_subTitle">Use Selective Honesty and Generosity to Disarm your Victim</string>
+    <string name="law_12_desc">One sincere and honest move will cover over dozens of dishonest ones. Open-hearted gestures of honesty and generosity bring down the guard of even the most suspicious people.</string>
+
+    <string name="law_13_title">Law 13</string>
+    <string name="law_13_subTitle">When Asking for Help, Appeal to People\'s Self-Interest, Never to their Mercy or Gratitude</string>
+    <string name="law_13_desc">If you need to ask for help, make sure your request appeals to the other person\'s personal interests. Your cause or your gratitude means nothing to them. What can you offer them in return?</string>
+
+    <string name="law_14_title">Law 14</string>
+    <string name="law_14_subTitle">Pose as a Friend, Work as a Spy</string>
+    <string name="law_14_desc">Knowing about your rival is critical. Use strategic conversations to learn valuable information. Ask indirect questions to get people to reveal their weaknesses and plans.</string>
+
+    <string name="law_15_title">Law 15</string>
+    <string name="law_15_subTitle">Crush Your Enemy Totally</string>
+    <string name="law_15_desc">All great leaders since Moses have known that a feared enemy must be crushed completely. If you leave even one ember smoldering, it will eventually ignite. Show no mercy.</string>
+
+    <string name="law_16_title">Law 16</string>
+    <string name="law_16_subTitle">Use Absence to Increase Respect and Honor</string>
+    <string name="law_16_desc">Too much circulation makes the price go down. The more you are seen and heard from, the more common you appear. Withdraw yourself for a time to increase your value and prestige.</string>
+
+    <string name="law_17_title">Law 17</string>
+    <string name="law_17_subTitle">Keep Others in Suspended Terror: Cultivate an Air of Unpredictability</string>
+    <string name="law_17_desc">Behavior that seems to have no consistency or purpose will keep others off-balance. They will waste time trying to figure out your next move. Unpredictability is a powerful tactical weapon.</string>
+
+    <string name="law_18_title">Law 18</string>
+    <string name="law_18_subTitle">Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous</string>
+    <string name="law_18_desc">Isolation cuts you off from valuable information and makes you an easy target. It is better to mingle among people; find allies and be in the thick of the action.</string>
+
+    <string name="law_19_title">Law 19</string>
+    <string name="law_19_subTitle">Know Who You\'re Dealing With – Do Not Offend the Wrong Person</string>
+    <string name="law_19_desc">There are many different kinds of people in the world. Choose your victims and opponents carefully. Never offend or deceive the wrong person, as the consequences could be severe.</string>
+
+    <string name="law_20_title">Law 20</string>
+    <string name="law_20_subTitle">Do Not Commit to Anyone</string>
+    <string name="law_20_desc">Stay independent and preserve your freedom to maneuver. By not committing to any single person, party, or cause, you make others chase after you and bid for your support.</string>
+
+    <string name="law_21_title">Law 21</string>
+    <string name="law_21_subTitle">Play a Sucker to Catch a Sucker – Seem Dumber than your Mark</string>
+    <string name="law_21_desc">No one likes feeling stupider than the next person. Make your victims feel smart and they will never suspect that you are manipulating them from behind the scenes.</string>
+
+    <string name="law_22_title">Law 22</string>
+    <string name="law_22_subTitle">Use the Surrender Tactic: Transform Weakness into Power</string>
+    <string name="law_22_desc">When you are weaker, surrender rather than fighting for honor. This gives you time to recover, time to wait for your opponent\'s weakness, and time to plot your revenge.</string>
+
+    <string name="law_23_title">Law 23</string>
+    <string name="law_23_subTitle">Concentrate Your Forces</string>
+    <string name="law_23_desc">Consolidate your resources and focus them on a single source of power. When looking for sources of power, find a single rich mine that will yield more than a scatter of weaker ones.</string>
+
+    <string name="law_24_title">Law 24</string>
+    <string name="law_24_subTitle">Play the Perfect Courtier</string>
+    <string name="law_24_desc">Master the art of indirection. Assert power gracefully, flatter skillfully, and appear humble while advancing your position. The perfect courtier wields power through charm and social grace.</string>
+
+    <string name="law_25_title">Law 25</string>
+    <string name="law_25_subTitle">Re-Create Yourself</string>
+    <string name="law_25_desc">Do not accept the roles that society foists on you. Forge a new identity, one that commands attention and never bores the audience. Be the master of your own image.</string>
+
+    <string name="law_26_title">Law 26</string>
+    <string name="law_26_subTitle">Keep Your Hands Clean</string>
+    <string name="law_26_desc">You must seem a paragon of civility and efficiency. Use others as scapegoats and cat\'s-paws to conceal your involvement in dirty work. Maintain a spotless appearance.</string>
+
+    <string name="law_27_title">Law 27</string>
+    <string name="law_27_subTitle">Play on People\'s Need to Believe to Create a Cultlike Following</string>
+    <string name="law_27_desc">People desire to believe in something. Become the focal point of this desire by offering them a cause, a new faith to follow. Keep your promises vague and full of optimism.</string>
+
+    <string name="law_28_title">Law 28</string>
+    <string name="law_28_subTitle">Enter Action with Boldness</string>
+    <string name="law_28_desc">If you are unsure of a course of action, do not attempt it. Your doubts and hesitations will infect your execution. When you act, do so with boldness and audacity.</string>
+
+    <string name="law_29_title">Law 29</string>
+    <string name="law_29_subTitle">Plan All the Way to the End</string>
+    <string name="law_29_desc">The ending is everything. Plan all the way to the conclusion, taking into account all possible consequences, obstacles, and twists of fortune. Do not be caught by surprise.</string>
+
+    <string name="law_30_title">Law 30</string>
+    <string name="law_30_subTitle">Make Your Accomplishments Seem Effortless</string>
+    <string name="law_30_desc">Conceal all the toil and tricks behind your success. Your actions must appear natural and executed with ease. This makes you seem capable of greater feats and intimidates opponents.</string>
+
+    <string name="law_31_title">Law 31</string>
+    <string name="law_31_subTitle">Control the Options: Get Others to Play with the Cards you Deal</string>
+    <string name="law_31_desc">The best deceptions are ones that seem to give the other person a choice. Shape the options so that no matter which one they choose, they are playing into your hands.</string>
+
+    <string name="law_32_title">Law 32</string>
+    <string name="law_32_subTitle">Play to People\'s Fantasies</string>
+    <string name="law_32_desc">The truth is often avoided because it is ugly and unpleasant. Never appeal to truth and reality unless you are prepared for the anger that comes from disenchantment. Feed on people\'s fantasies.</string>
+
+    <string name="law_33_title">Law 33</string>
+    <string name="law_33_subTitle">Discover Each Man\'s Thumbscrew</string>
+    <string name="law_33_desc">Everyone has a weakness, an insecurity, an ulterior motive. Find this lever and you can use it to persuade and pressure them. Look for obsessions, vanities, and hidden desires.</string>
+
+    <string name="law_34_title">Law 34</string>
+    <string name="law_34_subTitle">Be Royal in Your Own Fashion: Act like a King to be treated like one</string>
+    <string name="law_34_desc">The way you carry yourself will often determine how you are treated. Act with dignity and confidence, and others will assume you have the power to back it up.</string>
+
+    <string name="law_35_title">Law 35</string>
+    <string name="law_35_subTitle">Master the Art of Timing</string>
+    <string name="law_35_desc">Never seem to be in a hurry—hurrying betrays a lack of control over yourself and over time. Learn to stand back when the time is not yet ripe, and strike fiercely when it has reached the perfect moment.</string>
+
+    <string name="law_36_title">Law 36</string>
+    <string name="law_36_subTitle">Disdain Things You Cannot Have: Ignoring Them is the Best Revenge</string>
+    <string name="law_36_desc">By acknowledging a petty problem, you give it existence and credibility. The more attention you pay an enemy, the stronger you make them. Sometimes, ignoring is the ultimate insult.</string>
+
+    <string name="law_37_title">Law 37</string>
+    <string name="law_37_subTitle">Create Compelling Spectacles</string>
+    <string name="law_37_desc">Striking imagery and grand symbolic gestures capture the public\'s imagination. Dazzle your audience by appealing to their senses, and they will be unable to scrutinize your logic.</string>
+
+    <string name="law_38_title">Law 38</string>
+    <string name="law_38_subTitle">Think as You Like but Behave like Others</string>
+    <string name="law_38_desc">If you make a show of going against the times, people will resent you for making them feel inferior. Express unconventional ideas subtly, while publicly conforming to common norms.</string>
+
+    <string name="law_39_title">Law 39</string>
+    <string name="law_39_subTitle">Stir Up Waters to Catch Fish</string>
+    <string name="law_39_desc">Anger and emotion are strategically counterproductive. Stay calm and objective to lure your opponents into an emotional reaction. Their irrationality will be their own downfall.</string>
+
+    <string name="law_40_title">Law 40</string>
+    <string name="law_40_subTitle">Despise the Free Lunch</string>
+    <string name="law_40_desc">What is offered for free is often a trick. Pay your own way. By being generous and paying in full, you protect your independence and avoid falling into hidden traps of obligation.</string>
+
+    <string name="law_41_title">Law 41</string>
+    <string name="law_41_subTitle">Avoid Stepping into a Great Man\'s Shoes</string>
+    <string name="law_41_desc">You will have to accomplish twice as much to outshine the predecessor who first established the legacy. Instead, find your own niche and forge a separate path to power.</string>
+
+    <string name="law_42_title">Law 42</string>
+    <string name="law_42_subTitle">Strike the Shepherd and the Sheep will Scatter</string>
+    <string name="law_42_desc">Trouble can often be traced to a single strong individual. Do not waste time negotiating with the followers. Neutralize the source of the trouble and the group will disintegrate.</string>
+
+    <string name="law_43_title">Law 43</string>
+    <string name="law_43_subTitle">Work on the Hearts and Minds of Others</string>
+    <string name="law_43_desc">Coercion creates a resentment that will eventually undermine you. It is more effective to seduce others into willingly supporting your cause. Win their hearts and minds.</string>
+
+    <string name="law_44_title">Law 44</string>
+    <string name="law_44_subTitle">Disarm and Infuriate with the Mirror Effect</string>
+    <string name="law_44_desc">Mirroring your enemies, doing exactly what they do, confuses and infuriates them. It also makes it difficult for them to formulate a strategy against you, as you are copying their own moves.</string>
+
+    <string name="law_45_title">Law 45</string>
+    <string name="law_45_subTitle">Preach the Need for Change, but Never Reform too much at Once</string>
+    <string name="law_45_desc">Everyone understands the need for change in the abstract, but on the day-to-day level people are creatures of habit. Introduce change gradually and with respect for the past.</string>
+
+    <string name="law_46_title">Law 46</string>
+    <string name="law_46_subTitle">Never Appear Too Perfect</string>
+    <string name="law_46_desc">Appearing better than others is dangerous. Envy creates silent enemies. It is smart to occasionally display minor flaws to seem more human and approachable, and to deflect envy.</string>
+
+    <string name="law_47_title">Law 47</string>
+    <string name="law_47_subTitle">Do Not Go Past the Mark You Aimed For; In Victory, Learn When to Stop</string>
+    <string name="law_47_desc">The moment of victory is often the moment of greatest peril. Do not allow success to go to your head. Do not overreach in your triumph; learn to stop when your goal is achieved.</string>
+
+    <string name="law_48_title">Law 48</string>
+    <string name="law_48_subTitle">Assume Formlessness</string>
+    <string name="law_48_desc">Be fluid and adaptable like water. By taking a shape, you open yourself to attack. Do not let your enemies know your plans or your next move. Be unpredictable and formless.</string>
+</resources>
