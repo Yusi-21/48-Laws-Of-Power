@@ -28,4 +28,8 @@ npm run build  # Build web for production
 
 ## How to use
 
-The main screen displays the title of the website and a list of laws from 1 to 48. When the user clicks the down arrow button, the content of the law will appear, including the main title, an illustration and a detailed description of that law. We can hide a law by clicking the up arrow button of that law, or we can open multiple laws at the same time.
+The main screen displays the title of the website and a list of laws from 1 to 48.
+
+When the user clicks a law, the content of the law will appear, including the main title, an illustration and a detailed description of that law.
+
+We can hide a law by clicking it again, or we can open multiple laws at the same time.
