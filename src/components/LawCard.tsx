@@ -42,7 +42,7 @@ export default function LawCard({ law, darkMode }: LawCardProps) {
       >
         <div className="p-5 space-y-4">
           <h3
-            className={`text-base font-medium leading-relaxed text-center ${
+            className={`text-3xl font-bold leading-relaxed text-center ${
               darkMode ? 'text-slate-200' : 'text-slate-800'
             }`}
           >
@@ -60,7 +60,7 @@ export default function LawCard({ law, darkMode }: LawCardProps) {
           )}
 
           <p
-            className={`text-sm leading-relaxed ${
+            className={`text-xl leading-relaxed ${
               darkMode ? 'text-slate-400' : 'text-slate-600'
             }`}
           >
