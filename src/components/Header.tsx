@@ -1,5 +1,6 @@
 import React from 'react';
 import { Moon, Sun } from 'lucide-react';
+import { lawsStrings } from '../data/lawsStrings';
 
 interface HeaderProps {
   darkMode: boolean;
@@ -15,7 +16,7 @@ const Header: React.FC<HeaderProps> = ({ darkMode, setDarkMode }) => {
             <img src="/icon_law.png" width={30} height={30}></img>
           </div>
           <h1 className={`text-xl font-bold ${darkMode ? 'text-white' : 'text-slate-900'}`}>
-            48 Laws Of Power
+            {lawsStrings.length} Laws Of Power
           </h1>
         </div>
         <button
