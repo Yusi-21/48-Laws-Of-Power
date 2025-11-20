@@ -15,7 +15,9 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
@@ -142,10 +144,11 @@ fun LawImage(
 ) {
     Image(
         modifier = modifier
-            .fillMaxSize()
+            .fillMaxWidth()
+            .aspectRatio(16f / 9f)
             .padding(dimensionResource(R.dimen.padding_small))
-            .clip(MaterialTheme.shapes.small),
-        contentScale = ContentScale.Fit,
+            .clip(MaterialTheme.shapes.large),
+        contentScale = ContentScale.Crop,
         painter = painterResource(lawImage),
 
         contentDescription = null
